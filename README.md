@@ -8,7 +8,7 @@ August 8, 2019
 CALL FOR PAPERS
 ---------------------------------
 
-4 page submissions due by May 5, 2019
+4 page submissions due by May 20, 2019
 
 Healthcare is, traditionally, a knowledge-driven enterprise with an enormous
 amount of data - both structured and unstructured and these data can impact
@@ -34,7 +34,7 @@ Important dates:
 --------------------------
 
 * Paper Submission opens: Apr 15, 2019
-* Paper Submission deadline: May 5, 2019
+* Paper Submission deadline: May 20, 2019
 * Acceptance Notice: Jun 1, 2019
 * Workshop Date: Aug 8, 2019
 
