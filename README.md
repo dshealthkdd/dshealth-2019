@@ -2,7 +2,7 @@
 
 2019 KDD Workshop on Applied Data Science for Healthcare: Bridging the Gap between Data and Knowledge.
 Anchorage, AK, United States.  
-August 8, 2019  
+August 5, 2019  
 
 ---------------------------------
 CALL FOR PAPERS
@@ -70,6 +70,10 @@ length of 4 pages, including references.
 
 The program committee will select the papers based on originality,
 presentation, and technical quality for spotlight and/or poster presentation.
+
+The best selected student paper and the best paper will be granted with $500
+travel grant each. Please indicate whether the primary author is a student in
+the easychair submission form. 
 
 ---------------------------------
 Organizers:
