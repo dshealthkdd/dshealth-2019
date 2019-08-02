@@ -2,7 +2,7 @@
 
 2019 KDD Workshop on Applied Data Science for Healthcare: Bridging the Gap between Data and Knowledge.
 Anchorage, AK, United States.  
-August 8, 2019  
+August 5, 2019  
 
 ---------------------------------
 CALL FOR PAPERS
@@ -36,7 +36,7 @@ Important dates:
 * Paper Submission opens: Apr 15, 2019
 * Paper Submission deadline: May 5, 2019
 * Acceptance Notice: Jun 1, 2019
-* Workshop Date: Aug 8, 2019
+* Workshop Date: Aug 5, 2019
 
 All deadlines correspond to 11:59 PM Hawaii Standard Time 
 
