@@ -9,7 +9,7 @@ body {
   max-width: 100%;
   text-align: center;
   min-height: 280px;
-  max-height: 420px;
+  max-height: 400px;
   background-color: #FFFFFF;
   background-image: url('../packages/circles-light/circles-light.png');
 }
